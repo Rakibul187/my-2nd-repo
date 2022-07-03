@@ -14,3 +14,6 @@ p{
     padding: 10px;
     
 }
+.fav-singer{
+    display: flex;
+}
